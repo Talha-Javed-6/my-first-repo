@@ -6,3 +6,7 @@ This repository is for Assigmnent only
 
 ## New Features
 - This project now includes enhanced functionality for easier usability.
+
+
+## Version 1.0
+- Initial release with basic functionality.
